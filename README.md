@@ -4,7 +4,7 @@
 >
 > _Turbulence unfolds._
 
-## Pranjal Gupta
+### Pranjal Gupta
 
 *I craft digital experiences.*
 
