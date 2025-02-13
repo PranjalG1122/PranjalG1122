@@ -1,12 +1,12 @@
-# Pranjal Gupta
-
 > _Silent and Composed,_
 >
 > _In the sea of endless code,_
 >
 > _Turbulence unfolds._
 
-**I craft digital experiences.**
+## Pranjal Gupta
+
+*I craft digital experiences.*
 
 I'm a full-stack web developer and software engineer who loves creating
 accessible, user-focused web apps that truly shine ✨. Passionate about
