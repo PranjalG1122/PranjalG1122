@@ -13,7 +13,7 @@ accessible, user-focused web apps that truly shine ✨. Passionate about
 exploring cutting-edge tech and crafting experiences that leave a lasting
 impression!
 
-[`💻 Website`](https://pranjalg1122.vercel.app)
+[`💻 Website`](https://pranjalgupta.me)
 [`📬 Email`](mailto:pranjalg1122@gmail.com)
 [`🐥 Twitter`](https://x.com/pranjalg1122)
 [`👔 LinkedIn`](https://www.linkedin.com/in/pranjalg1122)
