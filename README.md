@@ -26,8 +26,8 @@ impression!
     <br/>
     <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,astro,vite,tailwind,bun,nodejs"/>
     <br/>
-     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,prisma,supabase,graphql"/>
+     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,prisma,supabase,graphql,dotnet"/>
     <br/>  
-    <img src="https://skillicons.dev/icons?i=figma,vscode,github,git,notion,docker,windows"/>
+    <img src="https://skillicons.dev/icons?i=figma,vscode,github,git,notion,docker,windows,webflow"/>
   </a>
 </div>
