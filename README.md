@@ -22,12 +22,12 @@ impression!
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,c,cpp,go"/>
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,c,cpp,cs"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,astro,vite,tailwind,bun,nodejs"/>
     <br/>
      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,prisma,supabase,graphql,dotnet"/>
     <br/>  
-    <img src="https://skillicons.dev/icons?i=figma,vscode,github,git,notion,docker,windows,webflow"/>
+    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,github,git,notion,docker,webflow"/>
   </a>
 </div>
